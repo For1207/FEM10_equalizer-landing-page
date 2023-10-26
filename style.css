@@ -104,7 +104,6 @@ svg {
   border-radius: 0.75rem;
 }
 
-
 .main-phone-img {
   grid-column: 3 / span 1;
   grid-row: 4 / span 1;
@@ -161,7 +160,6 @@ svg {
   margin-right: 0.5rem;
 }
 
-
 .eq-button.white {
   margin: 0;
   background-color: var(--almost-white);
@@ -175,8 +173,6 @@ svg {
 .eq-button.white:hover {
   background-color: var(--orange);
 }
-
-
 
 .footer-logo {
   grid-column: 2 /span 2;
@@ -211,8 +207,6 @@ svg {
 .footer-media a:hover svg path{
   fill: var(--orange);
 }
-
-
 
 @media only screen and (max-width: 996px) {
   .container {
@@ -335,29 +329,6 @@ svg {
     grid-row: inherit;
     grid-column: 5 / span 2;
   }
-
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-  
-  
 }
 
 /* Transition styles at 576 px */
@@ -379,7 +350,6 @@ svg {
   .main-phone-img {
     grid-column: 1 / span  2;
     margin-left: 20%;
-    
   }
 
   .eq-container {
@@ -409,7 +379,6 @@ svg {
     margin-bottom: 80px;
   }
 }
-
 
 /* Mobile styles */
 @media only screen and (max-width: 375px) {
@@ -521,17 +490,6 @@ svg {
     justify-content: flex-start;
   }
 
-
-
-
-
-
-
-
-
-
-
-
   .footer-logo {
     grid-row: 8 / span 1;
   }
@@ -544,5 +502,3 @@ svg {
     grid-row: 10 / span 1;
   }
 }
-
-
